@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd-number {
+    background-color: #FFB6C1;
+    font-family: Verdana, DejaVu Sans, sans-serif  
+    
+}
+
+#im-blue {
+    color: blue;
+    font-size: 38px;
+
+}
+
+.fontsize24 {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: #90EE90;
+    font-weight: bold;
+}
